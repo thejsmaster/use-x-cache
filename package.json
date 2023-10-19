@@ -1,6 +1,6 @@
 {
   "name": "use-x-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "commonjs",
   "author": "Sean Freeman",
   "scripts": {
@@ -27,7 +27,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thejsmaster/x-channel/issues"
+    "url": "https://github.com/thejsmaster/use-x-cache/issues"
   },
-  "homepage": "https://github.com/thejsmaster/x-channel#readme"
+  "homepage": "https://github.com/thejsmaster/use-x-cache#readme"
 }
