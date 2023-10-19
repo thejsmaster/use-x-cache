@@ -1,0 +1,33 @@
+{
+  "name": "use-x-cache",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "author": "Sean Freeman",
+  "scripts": {
+    "dev": "tsc",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.18",
+    "typescript": "^5.2.2"
+  },
+  "description": "a custom React hook that provides a flexible and easy-to-use cache management solution for your React applications. ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejsmaster/use-XYZ.git"
+  },
+  "keywords": [
+    "react cache",
+    "useXCache",
+    "x-cache"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejsmaster/x-channel/issues"
+  },
+  "homepage": "https://github.com/thejsmaster/x-channel#readme"
+}
